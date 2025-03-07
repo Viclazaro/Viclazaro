@@ -1,4 +1,5 @@
 ## Olá, eu sou a Victória!
+- Estudante de Engenharia da Computação
 - Estudando C
 
 <div>
