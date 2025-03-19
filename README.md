@@ -1,6 +1,6 @@
 ## Olá, eu sou a Victória!
 - 📝 Estudante de Engenharia da Computação
-- 📚 Estudando C
+- 📚 Estudando C e Python
 
 <div>
   <a href="https://github.com/viclazaro">
