@@ -1,4 +1,3 @@
-<!-- TEMA: Pac-Man Edition 🟡👾 -->
 <h1 align="center">👾 Boas-vindas! Eu sou a Victória (Yen) 👾</h1>
 
 <p align="center">
