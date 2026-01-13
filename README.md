@@ -1,7 +1,7 @@
 <h1 align="center">👾 Boas-vindas! Eu sou a Victória (Yen) 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+da+Computação;Apaixonada+por+Tecnologia+e+Aprendizado;Explorando+PHP+e+Python;Partiu+Codar!+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+da+Computação;Apaixonada+por+Tecnologia+e+Aprendizado;Explorando+JS+e+PHP;Partiu+Codar?+💻" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 - Estudante de Engenharia da Computação  
 - Serra — Espírito Santo, Brasil  
-- Atualmente estudando **PHP**
+- Atualmente estudando **JavaScript**
 
 ---
 
